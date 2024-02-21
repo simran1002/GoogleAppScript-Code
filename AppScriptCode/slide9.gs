@@ -104,7 +104,7 @@ function myFunction() {
   subtitle4Style.setForegroundColor('#0000FF')
   subtitle4Style.setBold(true)
   subtitle4.setTop(100)
-  subtitle4.setLeft(400)
+  subtitle4.setLeft(370)
   subtitle4.setWidth(130)
 
    const subtitle5 = slide.insertTextBox('Technological Advancements')
@@ -114,7 +114,7 @@ function myFunction() {
   subtitle5Style.setForegroundColor('#0000FF')
   subtitle5Style.setBold(true)
   subtitle5.setTop(200)
-  subtitle5.setLeft(400)
+  subtitle5.setLeft(370)
   subtitle5.setWidth(130)
 
    const subtitle6 = slide.insertTextBox('Social Changes')
@@ -124,7 +124,7 @@ function myFunction() {
   subtitle6Style.setForegroundColor('#0000FF')
   subtitle6Style.setBold(true)
   subtitle6.setTop(300)
-  subtitle6.setLeft(400)
+  subtitle6.setLeft(370)
   subtitle6.setWidth(130)
 
 }
